@@ -13,8 +13,8 @@ AGISTIN aims to **accelerate industrial decarbonisation** by enabling the advanc
 The project addresses key challenges in modern power systems, including:
 - Grid congestion and limited connection capacity  
 - Integration of large-scale renewables  
-- Operation of **low-inertia grids**  
-- Need for flexibility and advanced grid services :contentReference[oaicite:2]{index=2}  
+- Operation of low-inertia grids  
+- Need for flexibility and advanced grid services   
 
 ---
 
@@ -22,11 +22,11 @@ The project addresses key challenges in modern power systems, including:
 
 AGISTIN develops and demonstrates **advanced grid interfaces** that:
 
-- Enable higher penetration of **on-site renewables**
-- Reduce grid reinforcement needs and connection capacity (up to ~20–30%) :contentReference[oaicite:3]{index=3}  
-- Provide **grid services** (e.g., frequency response, balancing, grid-forming control) :contentReference[oaicite:4]{index=4}  
+- Enable higher penetration of on-site renewables
+- Reduce grid reinforcement needs and connection capacity (up to ~20–30%)  
+- Provide **grid services** (e.g., frequency response, balancing, grid-forming control) {index=4}  
 - Improve efficiency and reduce costs for industrial energy users  
-- Support a **resilient, flexible, low-carbon energy system**
+- Support a resilient, flexible, low-carbon energy system
 
 ---
 
@@ -41,9 +41,9 @@ The project validates its concepts through multiple applications:
 
 ### 🌍 Field Demonstrations
 - 🇪🇸 Irrigation-based energy storage (Spain)  
-- 🇳🇱 Renewable hydrogen facility (Netherlands)  
+- 🇳🇱 Green hydrogen facility (Netherlands)  
 
-These demonstrations showcase how integrated systems combining **storage, renewables, and industrial loads** can improve grid interaction and efficiency. :contentReference[oaicite:5]{index=5}  
+These demonstrations showcase how integrated systems combining **storage, renewables, and industrial loads** can improve grid interaction and efficiency. 
 
 ---
 
@@ -51,15 +51,15 @@ These demonstrations showcase how integrated systems combining **storage, renewa
 
 AGISTIN explores innovative system architectures based on:
 
-- ⚡ **Hybrid AC/DC grid topologies**
+- ⚡ Hybrid AC/DC grid topologies
 - 🔋 Advanced energy storage technologies  
-- 🧠 Coordinated control algorithms (to be open-sourced)
+- 🧠 Coordinated control algorithms 
 - 🏭 Integration of:
   - Industrial demand  
   - On-site generation  
   - Energy storage  
 
-This approach enables **higher efficiency, flexibility, and reduced hardware requirements** compared to traditional AC-based integration. :contentReference[oaicite:6]{index=6}  
+This approach enables higher efficiency, flexibility, and reduced hardware requirements compared to traditional AC-based integration. 
 
 ---
 
@@ -69,7 +69,7 @@ This organization hosts:
 - 📊 Models and simulation tools  
 - ⚙️ Control algorithms  
 - 🧪 Demonstration-related code and data  
-- 📄 Public deliverables and supporting materials  
+- 📄 Other supporting materials  
 
 > Repositories are organized by work package, use case, or functionality.
 
@@ -77,7 +77,7 @@ This organization hosts:
 
 ## 🤝 Consortium
 
-AGISTIN is a **Horizon Europe project (2023–2026)** involving partners across industry, research, and academia. :contentReference[oaicite:7]{index=7}  
+AGISTIN is a Horizon Europe project (2023–2026) involving partners across industry, research, and academia. 
 
 The consortium spans:
 - Utilities and system operators  
@@ -89,7 +89,7 @@ The consortium spans:
 
 ## 📖 Funding
 
-This project has received funding from the **European Union’s Horizon Europe programme** under Grant Agreement **101096197**. :contentReference[oaicite:8]{index=8}  
+AGISTIN has received funding from the European Union's Horizon Europe research and innovation programme under Grant Agreement no. 101096197. 
 
 ---
 
@@ -102,7 +102,7 @@ This project has received funding from the **European Union’s Horizon Europe p
 
 ## ⚠️ Disclaimer
 
-Funded by the European Union. Views and opinions expressed are those of the authors and do not necessarily reflect those of the European Union or CINEA.
+Funded by the European Union. The results only reflect the opinion of its authors and does not in any way represent the opinions of the European Uniion.
 
 ---
 
