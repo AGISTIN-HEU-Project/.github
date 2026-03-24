@@ -8,7 +8,7 @@ Welcome to the official GitHub organization of the **AGISTIN Horizon Europe Proj
 
 ## 🚀 About the Project
 
-AGISTIN aims to **accelerate industrial decarbonisation** by enabling the advanced integration of innovative energy storage technologies at the grid interface. :contentReference[oaicite:1]{index=1}
+AGISTIN aims to **accelerate industrial decarbonisation** by enabling the advanced integration of innovative energy storage technologies at the grid interface. 
 
 The project addresses key challenges in modern power systems, including:
 - Grid congestion and limited connection capacity  
