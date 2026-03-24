@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization of the **AGISTIN Horizon Europe Project**.
 
-🌍 [Project Website](https://agistin.eu/?utm_source=chatgpt.com)
+🌍 [Project Website](https://agistin.eu/)
 
 ---
 
@@ -96,7 +96,7 @@ This project has received funding from the **European Union’s Horizon Europe p
 ## 📬 Contact
 
 📧 info@agistin.eu  
-🌐 [www.agistin.eu](https://agistin.eu/?utm_source=chatgpt.com)  
+🌐 [www.agistin.eu](https://agistin.eu/)  
 
 ---
 
