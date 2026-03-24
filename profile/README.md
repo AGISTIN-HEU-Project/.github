@@ -85,6 +85,7 @@ The consortium spans:
 - Research institutes and universities  
 - Technology providers  
 
+🌍 [Full Partner List](https://agistin.eu/partners/)
 ---
 
 ## 📖 Funding
